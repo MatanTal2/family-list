@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Family List</string>
+    <string name="register_btn">Register</string>
+    <string name="login_btn">Login</string>
+    <string name="hint_Email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="registerBtn">Register</string>
+    <string name="profile_Tv">Profile</string>
+    <string name="register_title">Register</string>
+    <string name="login_title">Login</string>
+    <string name="not_have_account_register_Tv_prompt">Not have account? Register</string>
+    <string name="already_have_account_login_Tv_prompt">Already have account? Login</string>
+    <string name="login_forgot_passwordTv">Forgot Password?</string>
+    <string name="menu_logout_title">Logout</string>
+    <string name="application_logo">Application logo</string>
+    <string name="menu_item_settings">Settings</string>
+    <string name="menu_item_help">Help</string>
+    <string name="menu_item_save">Save</string>
+    <string name="add_new_note_floating_button">Add new note floating button</string>
+</resources>

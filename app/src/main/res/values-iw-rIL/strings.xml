@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">רשימה משפחית</string>
+    <string name="register_btn">הרשמה</string>
+    <string name="login_btn">מתחבר</string>
+    <string name="hint_Email">אימייל</string>
+    <string name="hint_password">סיסמה</string>
+    <string name="registerBtn">הרשמה</string>
+    <string name="profile_Tv">פרופיל</string>
+    <string name="register_title">הרשמה</string>
+    <string name="login_title">התחברות</string>
+    <string name="not_have_account_register_Tv_prompt">אין לך חשבון? הירשם</string>
+    <string name="already_have_account_login_Tv_prompt">יש לך חשבון? התחבר</string>
+    <string name="login_forgot_passwordTv">שכחת סיסמה?</string>
+    <string name="menu_logout_title">התנתק</string>
+    <string name="application_logo">Application logo</string>
+    <string name="menu_item_settings">הגדרות</string>
+    <string name="menu_item_help">עזרה</string>
+    <string name="menu_item_save">שמור</string>
+    <string name="add_new_note_floating_button">כפתור צף הוספת פתק</string>
+</resources>
